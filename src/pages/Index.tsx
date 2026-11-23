@@ -91,7 +91,7 @@ const Index = () => {
           </div>
           <h1 className="text-4xl md:text-6xl font-bold mb-4 leading-tight">
             <span className="bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent animate-gradient bg-[length:200%_auto]">
-              Decentralized File Storage
+             StorX Decentralized File Storage
             </span>
           </h1>
           <p className="text-muted-foreground max-w-xl mx-auto text-lg">
